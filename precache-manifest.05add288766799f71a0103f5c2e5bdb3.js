@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "69d3cb9ac777d0d44452b600fafb2002",
+    "revision": "c88b24ef69ff30720185af55794d5ace",
     "url": "/index.html"
   },
   {
-    "revision": "d5614802c38d7dc70a25",
+    "revision": "a0c20cda893b60c61d73",
     "url": "/static/css/3.c7b31c95.chunk.css"
   },
   {
-    "revision": "00c9ea52aad669a4d9a6",
+    "revision": "2bdf674cdfb59386ab48",
     "url": "/static/css/4.54df59d4.chunk.css"
   },
   {
-    "revision": "bedf9a8db56d565b4b43",
+    "revision": "b59eef3bcf752c333717",
     "url": "/static/css/main.91308f57.chunk.css"
   },
   {
-    "revision": "5acc232fdd03a98d3011",
-    "url": "/static/js/2.fcdc6190.chunk.js"
+    "revision": "63b02205baf9fb90d626",
+    "url": "/static/js/2.e7268567.chunk.js"
   },
   {
-    "revision": "d5614802c38d7dc70a25",
-    "url": "/static/js/3.e87cb3bc.chunk.js"
+    "revision": "a0c20cda893b60c61d73",
+    "url": "/static/js/3.f735176b.chunk.js"
   },
   {
-    "revision": "00c9ea52aad669a4d9a6",
-    "url": "/static/js/4.e958ac8d.chunk.js"
+    "revision": "2bdf674cdfb59386ab48",
+    "url": "/static/js/4.112ca78b.chunk.js"
   },
   {
-    "revision": "bedf9a8db56d565b4b43",
-    "url": "/static/js/main.c362e1dd.chunk.js"
+    "revision": "b59eef3bcf752c333717",
+    "url": "/static/js/main.238b2b99.chunk.js"
   },
   {
-    "revision": "a1ec6d26e34ce3e6bf5c",
-    "url": "/static/js/runtime-main.f826ee60.js"
+    "revision": "5e92915851766407e029",
+    "url": "/static/js/runtime-main.65308768.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -48,10 +48,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/airbnbLogo.c59720d6.png"
   },
   {
-    "revision": "47a7a717679b640ceb1b05d38c480a61",
-    "url": "/static/media/codeInLogo.47a7a717.webp"
-  },
-  {
     "revision": "68e841388612be0c5143e2932fb77d4f",
     "url": "/static/media/contactMail.68e84138.webp"
   },
@@ -64,10 +60,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/facebookLogo.8ddf76a1.png"
   },
   {
-    "revision": "e79c639294c805688be731921368c8f8",
-    "url": "/static/media/googleAssistantLogo.e79c6392.webp"
-  },
-  {
     "revision": "25bf045ca257e971124f3997d89f321c",
     "url": "/static/media/logo.25bf045c.svg"
   },
@@ -78,10 +70,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "829ad0a1deef4d7295adfecdf12df2be",
     "url": "/static/media/nextuLogo.829ad0a1.webp"
-  },
-  {
-    "revision": "ee62cb58630f29a6e6201b49d4c03728",
-    "url": "/static/media/pwaLogo.ee62cb58.webp"
   },
   {
     "revision": "4b2938b9f5ea2f1ddbd45dccaff628bc",
