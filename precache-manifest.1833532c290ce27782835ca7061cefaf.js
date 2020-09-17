@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bace9fbb589a841e5a33d97090897321",
+    "revision": "5d9854dd9adfb791ecdb1ad0dd4e6b4f",
     "url": "dittogod.github.io/index.html"
   },
   {
-    "revision": "549f4c648c509439decb",
+    "revision": "950b0cb4ecf59261d7e3",
     "url": "dittogod.github.io/static/css/3.c7b31c95.chunk.css"
   },
   {
@@ -12,28 +12,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "dittogod.github.io/static/css/4.54df59d4.chunk.css"
   },
   {
-    "revision": "10a16fdc365c63c6b47e",
+    "revision": "83fc360f5e989657c4f5",
     "url": "dittogod.github.io/static/css/main.fe46227f.chunk.css"
   },
   {
-    "revision": "41bb2baa67ba51d6f117",
-    "url": "dittogod.github.io/static/js/2.be764112.chunk.js"
+    "revision": "774a560dd575a1107407",
+    "url": "dittogod.github.io/static/js/2.cfb7098f.chunk.js"
   },
   {
-    "revision": "549f4c648c509439decb",
-    "url": "dittogod.github.io/static/js/3.701e2236.chunk.js"
+    "revision": "950b0cb4ecf59261d7e3",
+    "url": "dittogod.github.io/static/js/3.79932714.chunk.js"
   },
   {
     "revision": "c7b349b95c4af4f88f38",
     "url": "dittogod.github.io/static/js/4.171c7ac9.chunk.js"
   },
   {
-    "revision": "10a16fdc365c63c6b47e",
-    "url": "dittogod.github.io/static/js/main.ff56d201.chunk.js"
+    "revision": "83fc360f5e989657c4f5",
+    "url": "dittogod.github.io/static/js/main.d667cfdd.chunk.js"
   },
   {
-    "revision": "2cccad54926ec1f82814",
-    "url": "dittogod.github.io/static/js/runtime-main.c9070c99.js"
+    "revision": "9fef20f6d909df61a088",
+    "url": "dittogod.github.io/static/js/runtime-main.0b7119cc.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",

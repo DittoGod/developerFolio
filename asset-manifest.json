@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "dittogod.github.io/static/css/main.fe46227f.chunk.css",
-    "main.js": "dittogod.github.io/static/js/main.ff56d201.chunk.js",
-    "main.js.map": "dittogod.github.io/static/js/main.ff56d201.chunk.js.map",
-    "runtime-main.js": "dittogod.github.io/static/js/runtime-main.c9070c99.js",
-    "runtime-main.js.map": "dittogod.github.io/static/js/runtime-main.c9070c99.js.map",
-    "static/js/2.be764112.chunk.js": "dittogod.github.io/static/js/2.be764112.chunk.js",
-    "static/js/2.be764112.chunk.js.map": "dittogod.github.io/static/js/2.be764112.chunk.js.map",
+    "main.js": "dittogod.github.io/static/js/main.d667cfdd.chunk.js",
+    "main.js.map": "dittogod.github.io/static/js/main.d667cfdd.chunk.js.map",
+    "runtime-main.js": "dittogod.github.io/static/js/runtime-main.0b7119cc.js",
+    "runtime-main.js.map": "dittogod.github.io/static/js/runtime-main.0b7119cc.js.map",
+    "static/js/2.cfb7098f.chunk.js": "dittogod.github.io/static/js/2.cfb7098f.chunk.js",
+    "static/js/2.cfb7098f.chunk.js.map": "dittogod.github.io/static/js/2.cfb7098f.chunk.js.map",
     "static/css/3.c7b31c95.chunk.css": "dittogod.github.io/static/css/3.c7b31c95.chunk.css",
-    "static/js/3.701e2236.chunk.js": "dittogod.github.io/static/js/3.701e2236.chunk.js",
-    "static/js/3.701e2236.chunk.js.map": "dittogod.github.io/static/js/3.701e2236.chunk.js.map",
+    "static/js/3.79932714.chunk.js": "dittogod.github.io/static/js/3.79932714.chunk.js",
+    "static/js/3.79932714.chunk.js.map": "dittogod.github.io/static/js/3.79932714.chunk.js.map",
     "static/css/4.54df59d4.chunk.css": "dittogod.github.io/static/css/4.54df59d4.chunk.css",
     "static/js/4.171c7ac9.chunk.js": "dittogod.github.io/static/js/4.171c7ac9.chunk.js",
     "static/js/4.171c7ac9.chunk.js.map": "dittogod.github.io/static/js/4.171c7ac9.chunk.js.map",
     "index.html": "dittogod.github.io/index.html",
-    "precache-manifest.dc59fe6859749b88fe4c639fcfd3c8cd.js": "dittogod.github.io/precache-manifest.dc59fe6859749b88fe4c639fcfd3c8cd.js",
+    "precache-manifest.1833532c290ce27782835ca7061cefaf.js": "dittogod.github.io/precache-manifest.1833532c290ce27782835ca7061cefaf.js",
     "service-worker.js": "dittogod.github.io/service-worker.js",
     "static/css/3.c7b31c95.chunk.css.map": "dittogod.github.io/static/css/3.c7b31c95.chunk.css.map",
     "static/css/4.54df59d4.chunk.css.map": "dittogod.github.io/static/css/4.54df59d4.chunk.css.map",
@@ -30,9 +30,9 @@
     "static/media/skill.svg": "dittogod.github.io/static/media/skill.34409398.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c9070c99.js",
-    "static/js/2.be764112.chunk.js",
+    "static/js/runtime-main.0b7119cc.js",
+    "static/js/2.cfb7098f.chunk.js",
     "static/css/main.fe46227f.chunk.css",
-    "static/js/main.ff56d201.chunk.js"
+    "static/js/main.d667cfdd.chunk.js"
   ]
 }
