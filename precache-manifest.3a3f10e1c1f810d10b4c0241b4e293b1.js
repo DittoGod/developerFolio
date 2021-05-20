@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ace531907ede9e5ea8734ac02379cb85",
+    "revision": "7f321a7af3b15bdea2bd5698c530cba0",
     "url": "/dittogod.github.io/developerFolio/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dittogod.github.io/developerFolio/static/css/4.3e7d09e6.chunk.css"
   },
   {
-    "revision": "0eb18e9a3be4d9d22100",
+    "revision": "33a73e4a198964084d2c",
     "url": "/dittogod.github.io/developerFolio/static/css/main.d892e3f3.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dittogod.github.io/developerFolio/static/js/4.27a694db.chunk.js"
   },
   {
-    "revision": "0eb18e9a3be4d9d22100",
-    "url": "/dittogod.github.io/developerFolio/static/js/main.a8e865e3.chunk.js"
+    "revision": "33a73e4a198964084d2c",
+    "url": "/dittogod.github.io/developerFolio/static/js/main.82550c87.chunk.js"
   },
   {
     "revision": "1ff220c385214a457bcc",
