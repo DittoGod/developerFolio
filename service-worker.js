@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dittogod.github.io/developerFolio/precache-manifest.6e03435f4282038c24be2cd43700959d.js"
+  "/dittogod.github.io/developerFolio/precache-manifest.8803690479478bea1696036eeb6c07fc.js"
 );
 
 self.addEventListener('message', (event) => {

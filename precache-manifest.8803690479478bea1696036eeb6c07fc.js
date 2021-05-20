@@ -1,51 +1,71 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "717f43b74034457c60fe0b49a7dc36d7",
+    "revision": "30d2987c9bc433dd98b899ba1c1afd6f",
     "url": "/dittogod.github.io/developerFolio/index.html"
   },
   {
-    "revision": "63e10101be43efb8476c",
+    "revision": "7a58f0d59da823e16229",
     "url": "/dittogod.github.io/developerFolio/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "2000d1c21d477666a8b8",
+    "revision": "417861d7a99d5929c364",
     "url": "/dittogod.github.io/developerFolio/static/css/4.3e7d09e6.chunk.css"
   },
   {
-    "revision": "dd9fb29b05beb8a5ec63",
+    "revision": "523004e1659f16393123",
     "url": "/dittogod.github.io/developerFolio/static/css/main.d892e3f3.chunk.css"
   },
   {
-    "revision": "e5b396a9977b6c7867ec",
-    "url": "/dittogod.github.io/developerFolio/static/js/2.82bfb1bc.chunk.js"
+    "revision": "09a92a8bb1979e57f91b",
+    "url": "/dittogod.github.io/developerFolio/static/js/2.4bd799ff.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/dittogod.github.io/developerFolio/static/js/2.82bfb1bc.chunk.js.LICENSE.txt"
+    "url": "/dittogod.github.io/developerFolio/static/js/2.4bd799ff.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "63e10101be43efb8476c",
-    "url": "/dittogod.github.io/developerFolio/static/js/3.f0863308.chunk.js"
+    "revision": "7a58f0d59da823e16229",
+    "url": "/dittogod.github.io/developerFolio/static/js/3.f325381b.chunk.js"
   },
   {
-    "revision": "2000d1c21d477666a8b8",
-    "url": "/dittogod.github.io/developerFolio/static/js/4.d7ad8b81.chunk.js"
+    "revision": "417861d7a99d5929c364",
+    "url": "/dittogod.github.io/developerFolio/static/js/4.27a694db.chunk.js"
   },
   {
-    "revision": "dd9fb29b05beb8a5ec63",
-    "url": "/dittogod.github.io/developerFolio/static/js/main.ea697c19.chunk.js"
+    "revision": "523004e1659f16393123",
+    "url": "/dittogod.github.io/developerFolio/static/js/main.d2eaefb2.chunk.js"
   },
   {
-    "revision": "9f9e7a439fa176802041",
-    "url": "/dittogod.github.io/developerFolio/static/js/runtime-main.e4e24f9a.js"
+    "revision": "1ff220c385214a457bcc",
+    "url": "/dittogod.github.io/developerFolio/static/js/runtime-main.e20a9a31.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/dittogod.github.io/developerFolio/static/media/Agustina.21f233e1.woff"
   },
   {
+    "revision": "3a30eed305a5fd81ab4daa947e8ee26d",
+    "url": "/dittogod.github.io/developerFolio/static/media/MTA-Cloud-Fundamentals-2018.3a30eed3.png"
+  },
+  {
+    "revision": "4c9e60d73fae1a5b77e9089f0dc1a9e9",
+    "url": "/dittogod.github.io/developerFolio/static/media/MTA-Mobility-and-Device-Fundamentals-2018.4c9e60d7.png"
+  },
+  {
+    "revision": "cd17a2b6b5fcdc682d8a7152ac722a21",
+    "url": "/dittogod.github.io/developerFolio/static/media/MTA_Networking_Fundamentals_2017-01.cd17a2b6.png"
+  },
+  {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/dittogod.github.io/developerFolio/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "1bc3acf7bec3b076b4ef445a489a7fec",
+    "url": "/dittogod.github.io/developerFolio/static/media/RHUL Logo.1bc3acf7.jpg"
+  },
+  {
+    "revision": "aa5fd02cab60054cce3aa448177684ff",
+    "url": "/dittogod.github.io/developerFolio/static/media/Udemy-Logo.aa5fd02c.webp"
   },
   {
     "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
