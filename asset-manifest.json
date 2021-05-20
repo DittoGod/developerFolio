@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dittogod.github.io/developerFolio/static/css/main.d892e3f3.chunk.css",
-    "main.js": "/dittogod.github.io/developerFolio/static/js/main.d2eaefb2.chunk.js",
-    "main.js.map": "/dittogod.github.io/developerFolio/static/js/main.d2eaefb2.chunk.js.map",
+    "main.js": "/dittogod.github.io/developerFolio/static/js/main.a8e865e3.chunk.js",
+    "main.js.map": "/dittogod.github.io/developerFolio/static/js/main.a8e865e3.chunk.js.map",
     "runtime-main.js": "/dittogod.github.io/developerFolio/static/js/runtime-main.e20a9a31.js",
     "runtime-main.js.map": "/dittogod.github.io/developerFolio/static/js/runtime-main.e20a9a31.js.map",
     "static/js/2.4bd799ff.chunk.js": "/dittogod.github.io/developerFolio/static/js/2.4bd799ff.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.27a694db.chunk.js": "/dittogod.github.io/developerFolio/static/js/4.27a694db.chunk.js",
     "static/js/4.27a694db.chunk.js.map": "/dittogod.github.io/developerFolio/static/js/4.27a694db.chunk.js.map",
     "index.html": "/dittogod.github.io/developerFolio/index.html",
-    "precache-manifest.8803690479478bea1696036eeb6c07fc.js": "/dittogod.github.io/developerFolio/precache-manifest.8803690479478bea1696036eeb6c07fc.js",
+    "precache-manifest.7b7036c1ff1a54c66dfd8b28bb3f5968.js": "/dittogod.github.io/developerFolio/precache-manifest.7b7036c1ff1a54c66dfd8b28bb3f5968.js",
     "service-worker.js": "/dittogod.github.io/developerFolio/service-worker.js",
     "static/css/3.00373544.chunk.css.map": "/dittogod.github.io/developerFolio/static/css/3.00373544.chunk.css.map",
     "static/css/4.3e7d09e6.chunk.css.map": "/dittogod.github.io/developerFolio/static/css/4.3e7d09e6.chunk.css.map",
@@ -43,6 +43,6 @@
     "static/js/runtime-main.e20a9a31.js",
     "static/js/2.4bd799ff.chunk.js",
     "static/css/main.d892e3f3.chunk.css",
-    "static/js/main.d2eaefb2.chunk.js"
+    "static/js/main.a8e865e3.chunk.js"
   ]
 }
