@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/dittogod.github.io/developerFolio/static/css/main.d892e3f3.chunk.css",
+    "main.js": "/dittogod.github.io/developerFolio/static/js/main.ea697c19.chunk.js",
+    "main.js.map": "/dittogod.github.io/developerFolio/static/js/main.ea697c19.chunk.js.map",
+    "runtime-main.js": "/dittogod.github.io/developerFolio/static/js/runtime-main.e4e24f9a.js",
+    "runtime-main.js.map": "/dittogod.github.io/developerFolio/static/js/runtime-main.e4e24f9a.js.map",
+    "static/js/2.82bfb1bc.chunk.js": "/dittogod.github.io/developerFolio/static/js/2.82bfb1bc.chunk.js",
+    "static/js/2.82bfb1bc.chunk.js.map": "/dittogod.github.io/developerFolio/static/js/2.82bfb1bc.chunk.js.map",
+    "static/css/3.00373544.chunk.css": "/dittogod.github.io/developerFolio/static/css/3.00373544.chunk.css",
+    "static/js/3.f0863308.chunk.js": "/dittogod.github.io/developerFolio/static/js/3.f0863308.chunk.js",
+    "static/js/3.f0863308.chunk.js.map": "/dittogod.github.io/developerFolio/static/js/3.f0863308.chunk.js.map",
+    "static/css/4.3e7d09e6.chunk.css": "/dittogod.github.io/developerFolio/static/css/4.3e7d09e6.chunk.css",
+    "static/js/4.d7ad8b81.chunk.js": "/dittogod.github.io/developerFolio/static/js/4.d7ad8b81.chunk.js",
+    "static/js/4.d7ad8b81.chunk.js.map": "/dittogod.github.io/developerFolio/static/js/4.d7ad8b81.chunk.js.map",
+    "index.html": "/dittogod.github.io/developerFolio/index.html",
+    "precache-manifest.6e03435f4282038c24be2cd43700959d.js": "/dittogod.github.io/developerFolio/precache-manifest.6e03435f4282038c24be2cd43700959d.js",
+    "service-worker.js": "/dittogod.github.io/developerFolio/service-worker.js",
+    "static/css/3.00373544.chunk.css.map": "/dittogod.github.io/developerFolio/static/css/3.00373544.chunk.css.map",
+    "static/css/4.3e7d09e6.chunk.css.map": "/dittogod.github.io/developerFolio/static/css/4.3e7d09e6.chunk.css.map",
+    "static/css/main.d892e3f3.chunk.css.map": "/dittogod.github.io/developerFolio/static/css/main.d892e3f3.chunk.css.map",
+    "static/js/2.82bfb1bc.chunk.js.LICENSE.txt": "/dittogod.github.io/developerFolio/static/js/2.82bfb1bc.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/dittogod.github.io/developerFolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/airbnbLogo.png": "/dittogod.github.io/developerFolio/static/media/airbnbLogo.c59720d6.png",
+    "static/media/contactMailDark.svg": "/dittogod.github.io/developerFolio/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/dittogod.github.io/developerFolio/static/media/developerActivity.59389695.svg",
+    "static/media/facebookLogo.png": "/dittogod.github.io/developerFolio/static/media/facebookLogo.8ddf76a1.png",
+    "static/media/harvardLogo.png": "/dittogod.github.io/developerFolio/static/media/harvardLogo.35ef5e91.png",
+    "static/media/manOnTable.svg": "/dittogod.github.io/developerFolio/static/media/manOnTable.52be3144.svg",
+    "static/media/nextuLogo.webp": "/dittogod.github.io/developerFolio/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/quoraLogo.png": "/dittogod.github.io/developerFolio/static/media/quoraLogo.4b2938b9.png",
+    "static/media/saayaHealthLogo.webp": "/dittogod.github.io/developerFolio/static/media/saayaHealthLogo.25018d29.webp",
+    "static/media/skill.svg": "/dittogod.github.io/developerFolio/static/media/skill.34409398.svg",
+    "static/media/stanfordLogo.png": "/dittogod.github.io/developerFolio/static/media/stanfordLogo.3b758ef5.png",
+    "static/media/TalkCard.css": "/dittogod.github.io/developerFolio/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4e24f9a.js",
+    "static/js/2.82bfb1bc.chunk.js",
+    "static/css/main.d892e3f3.chunk.css",
+    "static/js/main.ea697c19.chunk.js"
+  ]
+}
