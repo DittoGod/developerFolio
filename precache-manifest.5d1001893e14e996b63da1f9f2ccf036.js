@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fdf784447950142b06d3d3e008d87802",
+    "revision": "ace531907ede9e5ea8734ac02379cb85",
     "url": "/dittogod.github.io/developerFolio/index.html"
   },
   {
