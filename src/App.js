@@ -4,9 +4,11 @@ import Main from "./containers/Main";
 
 function App() {
   return (
-    <div>
-      <Main />
-    </div>
+    <React.StrictMode>
+      <div>
+        <Main />
+      </div>
+    </React.StrictMode>
   );
 }
 
