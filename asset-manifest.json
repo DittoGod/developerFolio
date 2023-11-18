@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.6f37dce8.css",
-    "main.js": "/static/js/main.4fa97524.js",
+    "main.css": "/static/css/main.2181931f.css",
+    "main.js": "/static/js/main.53b5a96d.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
-    "static/js/64.296c997c.chunk.js": "/static/js/64.296c997c.chunk.js",
+    "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.bda0d7b7.chunk.js": "/static/js/769.bda0d7b7.chunk.js",
     "static/media/stanfordLogo.png": "/static/media/stanfordLogo.5a8e3a0a00949c93a9b8.png",
@@ -26,15 +26,15 @@
     "static/media/nextuLogo.webp": "/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.6f37dce8.css.map": "/static/css/main.6f37dce8.css.map",
-    "main.4fa97524.js.map": "/static/js/main.4fa97524.js.map",
+    "main.2181931f.css.map": "/static/css/main.2181931f.css.map",
+    "main.53b5a96d.js.map": "/static/js/main.53b5a96d.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
-    "64.296c997c.chunk.js.map": "/static/js/64.296c997c.chunk.js.map",
+    "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
     "769.bda0d7b7.chunk.js.map": "/static/js/769.bda0d7b7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f37dce8.css",
-    "static/js/main.4fa97524.js"
+    "static/css/main.2181931f.css",
+    "static/js/main.53b5a96d.js"
   ]
 }
