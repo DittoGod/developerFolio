@@ -259,7 +259,7 @@ const achievementSection = {
     {
       title: "FullStack Web Developer",
       subtitle: "Completed FullStack Web Developer Course on Udemy",
-      image: require("./assets/images/Udemy-Logo.webp"),
+      image: require("./assets/images/Udemy-Logo.png"),
       imageAlt: "Udemy",
       footerLink: [
         {
@@ -279,7 +279,7 @@ const achievementSection = {
     {
       title: "Flutter Developer",
       subtitle: "Completed Flutter Developer Course on Udemy",
-      image: require("./assets/images/Udemy-Logo.webp"),
+      image: require("./assets/images/Udemy-Logo.png"),
       footerLink: [
         {
           name: "Certification",
