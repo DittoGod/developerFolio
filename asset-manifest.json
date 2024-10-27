@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2181931f.css",
-    "main.js": "/static/js/main.9481de03.js",
+    "main.css": "/static/css/main.8e70ea13.css",
+    "main.js": "/static/js/main.35bffa65.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
@@ -21,22 +21,20 @@
     "static/media/airbnbLogo.png": "/static/media/airbnbLogo.e8497507db673acd3991.png",
     "static/media/facebookLogo.png": "/static/media/facebookLogo.f46d68b24e9b4f73ee8b.png",
     "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
-    "static/media/Udemy-Logo.webp": "/static/media/Udemy-Logo.badb5ff33d67c75095d6.webp",
+    "static/media/resume.pdf": "/static/media/resume.f0f733dd3cd732b39262.pdf",
     "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
     "static/media/nextuLogo.webp": "/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
     "index.html": "/index.html",
-    "static/media/icons8-dart.svg": "/static/media/icons8-dart.8fbc8805b18a13b4fd59bc79a29d4052.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "static/media/icons8-flutter.svg": "/static/media/icons8-flutter.05db7a33fcaac6f313276697ae5b4c46.svg",
-    "main.2181931f.css.map": "/static/css/main.2181931f.css.map",
-    "main.9481de03.js.map": "/static/js/main.9481de03.js.map",
+    "main.8e70ea13.css.map": "/static/css/main.8e70ea13.css.map",
+    "main.35bffa65.js.map": "/static/js/main.35bffa65.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
     "769.bda0d7b7.chunk.js.map": "/static/js/769.bda0d7b7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2181931f.css",
-    "static/js/main.9481de03.js"
+    "static/css/main.8e70ea13.css",
+    "static/js/main.35bffa65.js"
   ]
 }
